@@ -1,0 +1,2 @@
+rootProject.name='New Uploader'
+include ':app'
